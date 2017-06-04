@@ -1,0 +1,25 @@
+#CompanyName {
+    text-align: center;
+}
+
+#Tagline {
+    text-align: center;
+}
+
+#Mainmenu {
+    text-align: center;
+}
+
+#MainMenu li {
+    display: inline-block;
+}
+
+#MainMenu li a {
+    text-decoration: none;
+    color: black;
+}
+
+#MainMenu li a:hover {
+    text-decoration: underline;
+    color: blue;
+}
